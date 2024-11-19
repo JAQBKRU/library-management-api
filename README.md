@@ -10,5 +10,8 @@
 - podsumowania np. najczęściej wypożyczane książki, średnia liczba wypożyczeń wg kategorii miesięcznie itd
 
 
-https://wolnelektury.pl/api/books/?format=json
-https://wolnelektury.pl/api/
+
+
+### Linki
+- [wolnelektury.pl/api/books/?format=json](https://wolnelektury.pl/api/books/?format=json)
+- [wolnelektury.pl/api/](https://wolnelektury.pl/api/)
